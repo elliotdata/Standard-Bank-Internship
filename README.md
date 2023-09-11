@@ -1,4 +1,4 @@
-# Standard Bank Virtual Internship | Forage
+# Standard Bank Virtual Internship
 
 ## Task Details:
 - EDA on Loan Data
