@@ -1,4 +1,4 @@
-# Standard Bank Job Experience Program
+# Standard Bank Job Simulation
 
 ## Task Details:
 - EDA on Loan Data
