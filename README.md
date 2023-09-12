@@ -1,4 +1,4 @@
-# Standard Bank Virtual Internship
+# Standard Bank Job Experience Program
 
 ## Task Details:
 - EDA on Loan Data
