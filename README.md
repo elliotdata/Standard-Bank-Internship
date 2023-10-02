@@ -4,7 +4,7 @@
 - EDA on Loan Data
 - Analyzed correlations
 - Used AutoML and Bespoke ML to predict possible loan default
-- Presentation: PowerPoint file named as s Client Presentation.pptx
+- Presentation: PowerPoint file named as Client Presentation.pptx
 - For more details please refer to - https://paulpagefolio.framer.ai/blog/predicting-possible-loan-default-using-machine-learning
 
 ## Links
